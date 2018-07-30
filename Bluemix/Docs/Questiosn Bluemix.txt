@@ -1,0 +1,214 @@
+
+Q1 . Web developer using web IDE for web application development, He wants to trigger testing for the application 
+ which of following options of Dev Ops will be used for?
+
+   a) agile unit Testing
+   b) Delivery PipeLine - Build Stage (a)
+   c) automated Unit testing
+   d) track and plan unit test task
+
+
+
+Q2. Which of the following are action properties of data-forge(service) Select 2
+section last exercise-
+
+data forge-target--cloudantnosqldb,dashdb,sqldb---
+  a) creates New sQL Database
+  b) Joins more than one tables(a)
+  c) cleanse incoming data(a)
+  d) modify incoming data.
+  e) Load large amount sample data
+
+
+Q3(d). When user deploys the applicaton using CF PUSH command, he gets error related to VCAP_Services Environment variables.. 
+Which of the following action the developer will perform to solve this issue.
+
+
+  a) modify manifest.yml to include new environment variables
+
+  b) cf env <appName> to list all the environment properties related to application (A)
+
+  c) Cf set-env <appname>
+  
+  d) delete environment repush with new environment variables
+
+
+Q4. Which of the following statement is true for CF Apps command
+
+   a) list all application and services of the developers organization
+   b) List all application and their resource utlization for developers spaces in the organization (A)
+   c) List all application and service for which user is the owner
+
+
+
+Q5. Which of the following are features of cloudant sync ? Select 2
+
+
+   a) mobile application can access the data even though network is down. (A)
+ 
+   b) always encrypts the senstive data during replication
+   
+   c) Replication is fast because it replicate data less than 2 KB
+
+   d) scaling give better performance compared to single large database (A)
+ 
+   e) Over a period the database size becomes small since its sync with all dbs across..
+
+
+
+
+Q6. Which of the following are type of work in agile methodology tracks and Plan? select 3
+
+ a) PMR
+ b) story (A)
+ c) defect (A)
+ d) Task (A)
+ e) etc
+ f) etc
+
+
+Q7. Which of the following statements are correct for auto scaling policy 
+
+   ans :  If average Memory utilization exceeds 80% for 600 seconds then add 1 instance  
+
+
+Q8(d). Which of the following statements are true regarding application and services.
+
+    a) one application can be bound to one service instance
+
+    b) more than one application can be bound to one service instance (A)
+
+ 
+Q9. When an organisatio has ready to use  appplication, which of the following cloud model will be used 
+
+    a) PaaS
+    b) IaaS
+    c) SaaS (A)
+    d) AaaS
+
+
+Q10. When a developer wants to expose his application as service  which of the following are option can be used? select 2
+
+    a) IBM Cloud
+    b) IBM Softlayer(IAAAS)
+    c) IBM Market Place  (A)
+    d) develop as third party service  and use it IBM Bluemix (A)
+
+
+
+Q11. one question from Container commands  
+
+
+Q12. Question on HTTP Session with a diagram
+
+  a) session details are stored in file store in remote system
+  b) session details are stored in SQL DB
+  c) Session data available even application instance crashes (A)
+
+ 
+
+Q13. What options available in IBM SQL Databse "Run Query" menu?
+
+
+             1) Only SELECT Commands can be executed
+             2) json documents format can be done
+             3) 
+
+
+Q14. when execution cf push command  getting the following error
+
+ 0 instance running 1 instance has start timeout error
+
+  how rectify this error?
+
+   A) Increat deploy time period in manifest.yml and re push the application
+   b) Increase start waiting time and push the application (a)
+   c) increase stage timeout period and push
+
+Q15, which of the following components are requried for management  of an application(sequence diagram)
+
+       a) router
+       b) buildpack
+       c) Cloud controler (A)
+       d) health manager
+
+
+Q16. Which of the following options are available for SQL Command in dash DB? select 2. (Check this options)
+
+
+     a) can be saved in named file and execute later.(A)
+     b) Can be validated before excuting (A)
+     c) Syntax error will be identified during the execution of command
+     d) Informix syntax only can be validated
+
+
+Q17. 2 question from 12 factors I got question from Rule 3 (Storage Configuration environment, VCAP SERvices). One more question on packaging rule
+table and data should be available before  befora application startup...?
+
+
+Q18. While working in Wbe IDE, If the user what to change the region for deployement what options can be used.
+
+      a) launch configuration (A)
+
+      b) modifying manifest.yml
+      
+      c) blah
+    
+      d) blah
+
+
+Q19. Developer wants to know the cpu, memory and resource untilization of application, which of the following can be used?
+
+   a) instance panel in dash board (A)
+   b) Analytical Service
+   c) etc
+   d) etc
+
+
+Q20. Which of the following is mandatory for creating view in cloudantNoSQL DB?
+
+    a) map   (A)
+    b) reduce function
+    c) sort function
+    d) map and reduce
+
+
+Q21. Which of the following statment is true for creating view in Cloudant DB?
+
+    a) primary index with document ID
+
+    b) primary index with map function
+   
+    c) secondary index with Document ID
+
+    d) Secondary index with map function (A)
+
+
+Q22. When an application implements security using Single Sign On Service which of the following is necessary? Check
+
+     a) implement code with sso creadential (A)
+     
+     b) develop form for login
+
+     c) OAUTH clietn v2.0 implementatio with authentication call back url
+
+     d) 
+
+     
+         
+
+
+
+
+
+
+
+
+
+
+
+ 
+   
+
+
+  

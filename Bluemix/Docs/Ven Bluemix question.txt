@@ -1,0 +1,33 @@
+1. What more features does bluemix provide compare to cloud foundry(a)
+	a. Bluemix extends Cloud Foundry with a number of managed runtimes and services
+	b.enterprise-grade DevOps tooling
+2. After cf login if you type cf marketplace what will happen?
+
+3. what will happen when you insert a document without id and rev in Cloudant NoSQL?
+creates new doc with id-revid
+
+4what is correct option for cf logs --recent?
+only error or debug(doubt)
+
+5. How can you deploy an app from one region to another region?
+eg.?
+
+6. cf scale myapp -i 5
+
+7. What does runtime provide?
+
+8. which of the following statements are true about Run Query in SQL Database?
+
+9.What should be done in delivery pipeline to run the stage manually?
+	Stage trigger
+10. Which of the following is true about Cloudant NoSQL DB?
+	a. autoscaling horizantally
+	b. autoscaling vertically
+
+11. If the input type is SCM repository in build stage in delivery pipeline?
+
+ 	
+
+
+
+

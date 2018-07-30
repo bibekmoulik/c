@@ -1,0 +1,62 @@
+image processing -alchemy api
+social website ---alchemy api
+
+
+factor 12
+
+before app starts its hsould load huge volume of records
+from database..the best way t
+
+page 11 Cq2
+page 34--2 questions--input type build what will happen
+page 37---see what all in job options
+page 47-what does new doc does
+page 54--run query ?
+create a query and save later use
+schedule query
+create a query by selecting a table and column
+
+if eclipse is in development mode 
+a.multiple user cannot share
+b.set breakpoints for profiling(A)
+c.you can find trouble shoot app
+d.find syntactial errors in application
+
+
+page 61--dataforge ?
+for collaborative shaping 
+for analysis
+
+
+Node.js debug what is required runtime?
+
+
+how can you add a scrum to a project
+1.selected while creating  a project
+2.can be added using project opion
+
+if we insert a record what will be created 
+unique id will be created
+revid wil be created
+
+how does ibm bluemix enhance softlayer
+capability of softlayer
+capability od devops
+capability of cloudant
+1.automatically scale horizontally
+
+
+
+
+map and reduce ....developer will write for what
+1.trigger
+2.search index(ans)
+3.primary index
+4.secondary indea
+
+
+developer wants to enhance ppublic project...how he can get a copy
+1.fork a project
+
+
+Enterprise directory identity repositories: this integration uses SAML post single sign on. The on-premise website authenticates users (acting as the identity provider) and then uses SAML to securely transmit that identity information to the SSO Service instance, which is acts in the role of a SAML service provider. A virtual appliance is available to implement an authentication portal to an LDAP server if one is not already configured in the enterprise.

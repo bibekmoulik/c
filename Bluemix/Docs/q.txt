@@ -1,0 +1,35 @@
+Questions same what venki and you said.
+
+few questions are...
+
+1.application uses Single Sign On service for
+
+Bluemix
+a.external authentication
+b.OAUTH
+
+2.restart button ...does just restart the
+app --no redloyment
+
+3.track and plan..items choose
+
+4.cf apps
+
+5.Load Impact testing purpose--Check against
+
+multiple virtual useers
+
+6.image processing--social media---related
+to alchemy API
+
+7.Secondary Index
+
+8.Cloudant NoSQL service--avalability against
+
+consistency
+
+9.Auto scaling policy rule
+
+10.ready made solution about PAAS and SAAS
+
+11.Delivery pipeline--

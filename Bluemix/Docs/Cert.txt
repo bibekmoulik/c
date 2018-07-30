@@ -1,0 +1,62 @@
+C5050285-
+DW002
+
+
+IBM Cloud self-test questions
+Today I just passed company internal CAMSS activity.It include some questions about cloud,social,mobile,big data,security,analyse six area.Since I am more interested in the Cloud part,So I post cloud part questions,if you can test your cloud knowledge here.It is totally seven questions.
+
+What is IBM's prescriptive approach for architecting cloud solutions? 
+
+Select an answer 
+ A.  Service Oriented Architecture (SOA) 
+ B.  Client-Server Architecture 
+ C.  Cloud Computing Reference Architecture (CCRA) 
+ D.  ITIL Architecture 
+
+
+Systems of Engagement incorporate technologies that encourage peer interactions and often leverage cloud technologies. Two technologies that encourage peer interactions are:
+
+Select an answer  
+ A.  Databases and message systems. 
+ B.  Mobile and social. 
+ C.  ERP and CRM applications. 
+ D.  None of the above. 
+
+When designing a cloud solution, some technical details that should be considered are:
+
+Select an answer 
+ A.  Level of virtualization. 
+ B.  Public, private, or hybrid solution. 
+ C.  Computer storage and networking requirements. 
+ D.  All of the above. 
+In addition to compute, storage, and networking, what other capabilities are important elements of IaaS?
+
+Select an answer 
+ A.  Automation and management (example would be SmartCloud Orchestrator) 
+ B.  Web application servers and databases (example would be WebSphere and DB2) 
+ C.  Application Development and Management tools (example would be BlueMix) 
+ D.  Analytics (example would be Cognos) 
+
+
+BlueMix enables developers to rapidly build, deploy, and manage cloud applications, while tapping a growing ecosystem of available services and runtime frameworks. BlueMix is based on which open standards?
+
+Select an answer A
+ A.  Cloud Foundry 
+ B.  Open Stack 
+ C.  Open Group 
+ D.  OASIS 
+Which of the following is the first question you should explore with a client?
+Select an answer 
+ A.  What platforms are in your data center (x, p, z)? 
+ B.  What business needs are you trying to solve? 
+ C.  What level of virtualization do you have in your data center? 
+ D.  Do you need a public or private cloud solution? 
+
+Cloud is evolving from being IT-centric to being value-centric. Which three key architectural elements best support this value-centric viewpoint?
+Select an answer
+ A.  Software Defined Enviroment, Cloud Operating Environment, API Economy 
+ B.  Virtualization, Optimization, Infrastructure Management 
+ C.  Multi-Tenancy, Multi-Site Topography, Auto-Scaling 
+ D.  Open Cloud Standards, Management APIs, Rapid Deployment Options 
+
+I don;t directly provide my answer here.You can comment the answer if you are interested in .
